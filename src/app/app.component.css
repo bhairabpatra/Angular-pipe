@@ -1,0 +1,11 @@
+p{
+  font-size: 18px;
+  margin: 0px;
+  padding: 0px;
+}
+.heading{
+  font-size: 20px;
+  color: #FFF;
+  background-color: rgb(255, 43, 43);
+  padding: 0px 10px 5px 10px;
+}
