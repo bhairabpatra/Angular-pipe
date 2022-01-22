@@ -1,0 +1,47 @@
+{
+  "posts": [
+    { "id": 1, "title": "json-server", "author": "typicode" }
+  ],
+  "quickLinks": [
+            {
+            "id": 1,
+            "links": "https://github.com/typicode/json-server",
+            "desc": "Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive,  "
+            },
+            {
+            "id": 2,
+            "links": "https://github.com/typicode/json-server",
+            "desc": "JS framework for developing responsive, mobile-first projects on the web"
+            },
+            {
+            "id": 3,
+            "links": "https://github.com/typicode/json-server",
+            "desc": "B  developing responsive, mobile-first projects on the r developing responsive, mobile-first projects on the web"
+            }
+
+  ],
+  "events":
+          [
+            {
+            "id": 1,
+            "title": "TML, CSS, and JS framework for developing",
+            "img": "https://media-s3-us-east-1.ceros.com/getty-images-services/images/2021/02/17/873fbbf6e4e681de0a096047fbba095d/da-20-0630.jpg",
+            "desc":"Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile-first projects on the web." ,
+            "fulldesc":"Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile-first projects on the web.Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile-first projects on the web."
+            },
+            {
+            "id": 2,
+            "title": " mobile-first projects on the web",
+            "img": "https://media-s3-us-east-1.ceros.com/getty-images-services/images/2021/02/17/873fbbf6e4e681de0a096047fbba095d/da-20-0630.jpg",
+            "desc":"Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile-first projects on the web." ,
+            "fulldesc":"Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile-first projects on the web.Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile-first projects on the web."
+            },
+            {
+            "id": 3,
+            "title": "Bootstrap is the most popular HTML, CSS,",
+            "img": "https://media-s3-us-east-1.ceros.com/getty-images-services/images/2021/02/17/873fbbf6e4e681de0a096047fbba095d/da-20-0630.jpg",
+            "desc":"Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile-first projects on the web." ,
+            "fulldesc":"Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile-first projects on the web.Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile-first projects on the web."
+            }
+        ]
+}

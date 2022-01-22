@@ -1,0 +1,19 @@
+.links{
+    margin:15px 0px 0px 0px;
+}
+.quick_links{
+    display: block;
+    margin: 0px;
+}
+.link_heading{
+    font-size: 20px;
+    padding: 10px 0px 0px 0px;
+}
+.quick_links li{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    margin-left: -15px;
+    list-style-type:square;
+
+}

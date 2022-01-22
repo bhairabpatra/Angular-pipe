@@ -1,0 +1,27 @@
+.event_warapper{
+
+  border: 1px solid rgb(241, 237, 245);
+  margin: 10px 0px;
+
+}
+.events{
+  display: grid;
+  grid-template-columns: 20% 80%;
+
+}
+.img_event img{
+    border: 1px solid rebeccapurple;
+    padding: 5px;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
+
+.desc_event{
+border: 1px solid rebeccapurple;
+padding: 5px;
+}
+.heaidng{
+    font-size: 20px;
+    padding: 0px 0px 10px 0px;
+}
