@@ -1,0 +1,16 @@
+
+<div class="event_warapper">
+  <h3 class="heaidng">Events</h3>
+    <div class="events" *ngFor="let events of events">
+
+        <div class="img_event">
+                <img [src]=events.img width="100%">
+        </div>
+        <div class="desc_event">
+              <h6> {{events.title}}</h6>
+              <p> {{ events.desc}} </p>
+        </div>
+    </div>
+</div>
+
+

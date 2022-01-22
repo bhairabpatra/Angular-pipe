@@ -1,0 +1,12 @@
+.event_warapper{
+
+  border: 1px solid rgb(241, 237, 245);
+  margin: 10px 0px;
+
+}
+ /* Make the image fully responsive */
+ .carousel-inner img {
+  width: 100%;
+  height: auto;
+  min-height: 300px;
+}

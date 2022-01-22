@@ -1,0 +1,25 @@
+.event_warapper{
+
+    margin: 10px 0px;
+
+}
+.events{
+    display: grid;
+    grid-template-columns: 30% 70%;
+    background-color: rgb(245, 245, 245);
+    padding: 5px;
+
+}
+.img_event{
+
+  padding: 5px;
+}
+
+.desc_event{
+
+  padding: 5px;
+}
+.heaidng{
+  font-size: 20px;
+  padding: 0px 0px 5px 0px;
+}
